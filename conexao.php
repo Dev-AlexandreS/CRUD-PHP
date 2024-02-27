@@ -1,8 +1,8 @@
 <?php 
-    $servidor = "127.0.0.1";
-    $usuario = "root";
-    $senha = "aglm4114";
-    $dbname = "dbname";
+    $servidor = "bdctlfccwkg1cwlyi8od-mysql.services.clever-cloud.com";
+    $usuario = "uen6lcjvv6uwjkjo";
+    $senha = "E4V3wR0VD2isbOavwwNm";
+    $dbname = "bdctlfccwkg1cwlyi8od";
 
     $conexao=mysqli_connect($servidor,$usuario, $senha, $dbname);
 
